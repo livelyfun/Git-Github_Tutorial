@@ -70,8 +70,16 @@ I have broken down the learning process into three logical phases, plus a quick-
 
 You can read the Markdown files directly here on GitHub. If you want to practice locally, you can clone this repository to your machine using your terminal:
 
+## Clone (HTTPS)
+
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/livelyfun/Git-Github_Tutorial.git
+```
+
+## Clone (SSH)
+
+```bash
+git clone git@github.com:livelyfun/Git-Github_Tutorial.git
 ```
 
 ## 🤝 Contributing
