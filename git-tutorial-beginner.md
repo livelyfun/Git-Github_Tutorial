@@ -86,7 +86,7 @@ cd project-name
 
 ## 🔄 4. The Daily Git Workflow (The Core Loop)
 
-You will execute this 4-step loop dozens of times every day:
+You will execute this 4-step loop dozen of times every day:
 
 ```
 [Edit Files] ➔ git status ➔ git diff ➔ git add ➔ git commit
